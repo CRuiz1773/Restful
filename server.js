@@ -50,3 +50,6 @@ app.use('/api', apiRouter);
 //Start the server
 app.listen(port);
 console.log('Magic happens on port ' + port);
+
+
+//This is a test for github
