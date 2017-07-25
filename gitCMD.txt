@@ -1,0 +1,14 @@
+To clone directory:
+git clone [directory from github]
+
+To create local repository:
+git init
+
+To push changes:
+git add [filename]
+git commit -m "Small update message"
+git push
+
+To fetch from remote repo:
+git fetch origin
+git merge origin/master
