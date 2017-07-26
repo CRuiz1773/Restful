@@ -7,7 +7,7 @@ git init
 To push changes:
 git add [filename]
 git commit -m "Small update message"
-git push
+git push origin master
 
 To fetch from remote repo:
 git fetch origin
