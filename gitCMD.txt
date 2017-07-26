@@ -5,7 +5,7 @@ To create local repository:
 git init
 
 To push changes:
-git add [filename]
+git add .
 git commit -m "Small update message"
 git push origin master
 
